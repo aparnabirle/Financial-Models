@@ -1,9 +1,14 @@
 # 💼 Financial Modelling in Excel
 Welcome to my Financial modelling repository! This collection contains Excel-based models used for valuation and deal analysis in corporate finance. These models follow best practices in financial modelling and are suitable for investment banking, private equity, and equity research use cases.
 
+
 ## 📊 Project List
 
-1. **Colgate-Palmolive DCF Valuation Model**
+1. [**Colgate-Palmolive DCF Valuation Model**](https://github.com/aparnabirle/Financial-Models/blob/main/Colgate%20Palmolive%20DCF%20Valuation%20Model.xlsx)
+2. [**Alpha LBO Model**](https://github.com/aparnabirle/Financial-Models/blob/main/Alpha%20LBO%20Model.xlsx)
+
+
+## 📊 Colgate-Palmolive DCF Valuation Model
    
 🔍 A complete Discounted Cash Flow (DCF) analysis of Colgate-Palmolive
 
@@ -17,7 +22,8 @@ Welcome to my Financial modelling repository! This collection contains Excel-bas
 
 💡 This model demonstrates intrinsic valuation based on fundamental cash flow analysis, suitable for public equities.
 
-2. **Alpha LBO Model**
+
+## 📊 Alpha LBO Model
    
 💣 A leveraged buyout (LBO) model for a hypothetical company named "Alpha"
 
@@ -31,9 +37,11 @@ Welcome to my Financial modelling repository! This collection contains Excel-bas
 
 💡 This is a deal-oriented model used in private equity settings for evaluating leveraged acquisitions.
 
+
 ## 🙌 Acknowledgments
 
 These models reflect industry-standard techniques used in real-world financial analysis. You are encouraged to explore the assumptions, formulas, and logic — and adapt them to your learning or deal practice.
+
 
 ## 📬 Contact
 
